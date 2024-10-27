@@ -32,7 +32,7 @@ export default function Home() {
         <div className="h-auto w-full flex flex-wrap flex-col items-center text-center p-10 bg-gradient-to-b from-blue-400 to-blue-200">
           <div className="w-full h-auto flex flex-wrap flex-col items-center">
             <p className="text-pink-500 font-bold text-3xl md:text-4xl text-center">
-              "Pure Hardwork, No Shortcut!"
+              Pure Hardwork, No Shortcut!
             </p>
             <div className="w-36 h-1 border-b-4 border-yellow-400 mt-2 rounded-2xl md:mt-4 mb-12"></div>
           </div>
